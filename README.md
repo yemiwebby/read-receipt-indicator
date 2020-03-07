@@ -10,7 +10,6 @@ Take a look at the screenshot below:
 
 <img src="screenshots/screenshot_1.gif">
 
-
 <img src="screenshots/screenshot_2.gif">
 
 
@@ -42,17 +41,15 @@ Replace `YOUR_API_KEY`, `YOUR_APP_ID` and `YOUR_GROUP_GUID` with your API KEY, A
 
 9. Run `npm run serve` to start the application and navigate to `http://localhost:8080` to view the app
 
-<img src="screenshots/screenshot_2.png">
+<img src="screenshots/screenshot_3.png">
 
 10. Open the application in two separate windows and log in with any two of the test users: superhero1, superhero2, or superhero3
 
-<img src="screenshots/screenshot_3.png">
-
 11. Once you are able to log in from both window, type a message and hit `Enter` on your keyboard to start a chat
 
-<img src="screenshots/screenshot_4.png">
+<img src="screenshots/screenshot_1.gif">
 
-<img src="screenshots/screenshot_1.png">
+<img src="screenshots/screenshot_2.gif">
 
 
 ## Useful links
