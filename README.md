@@ -11,6 +11,9 @@ Take a look at the screenshot below:
 <img src="screenshots/screenshot_1.gif">
 
 
+<img src="screenshots/screenshot_2.gif">
+
+
 ## Technology
 
 This demo uses:
